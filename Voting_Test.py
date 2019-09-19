@@ -1,5 +1,6 @@
 """
 Basic program that takes input from the user to check if they can vote
+Only two possible outcomes
 William Alber 9/19/2019
 """
 
